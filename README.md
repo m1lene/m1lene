@@ -11,7 +11,7 @@
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m1lene&show_icons=true&count_private=true&hide_border=true&title_color=387CA6&icon_color=387CA6&text_color=c9d1d9&bg_color=0d1117" alt="Milene Resnik github stats" /> 
 
     
-<img align="right" height="180" width="500" src="https://i.pinimg.com/originals/51/89/62/5189622f6b93401ca8b6fb86585a70ff.gif"  />
+<img align="right" height="150" width="300" src="https://i.pinimg.com/originals/51/89/62/5189622f6b93401ca8b6fb86585a70ff.gif"  />
 
 
 
