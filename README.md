@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=387CA6&height=120&section=header"/>
 
-<!--
-**m1lene/m1lene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=387CA6&size=35&center=true&vCenter=true&width=1000&lines=Hello+Wold;)
 
-Here are some ideas to get you started:
+<div align="left">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m1lene&show_icons=true&count_private=true&hide_border=true&title_color=387CA6&icon_color=387CA6&text_color=c9d1d9&bg_color=0d1117" alt="Milene Resnik github stats" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" height="150" width="300" src="https://i.pinimg.com/originals/d8/34/5c/d8345cf4cdd7e013e964f91d0c3b2228.gif" alt="Imagem" />
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m1lene&bg_color=000000&color=4a56b0&line=3d42c2&point=6facfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=387CA6&height=120&section=footer"/>
