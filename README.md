@@ -10,6 +10,7 @@
 
 <div align="left">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m1lene&show_icons=true&count_private=true&hide_border=true&title_color=387CA6&icon_color=387CA6&text_color=c9d1d9&bg_color=0d1117" alt="Milene Resnik github stats" /> 
+      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lene&layout=compact&hide_border=true&title_color=ff91a4&text_color=0d1117&bg_color=0d1117" />
 
     
 <img  align="right" height="195px" width="51%" src="https://i.pinimg.com/originals/51/89/62/5189622f6b93401ca8b6fb86585a70ff.gif"  />
