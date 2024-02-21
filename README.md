@@ -4,8 +4,8 @@
 
 
 <div align="left">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m1lene&show_icons=true&count_private=true&hide_border=true&title_color=387CA6&icon_color=387CA6&text_color=c9d1d9&bg_color=0d1117" alt="Milene Resnik github stats" /> 
-      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lene&layout=compact&hide_border=true&title_color=387CA6&text_color=387CA6&bg_color=0d1117" />
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m1lene&show_icons=true&count_private=true&hide_border=true&title_color=387CA6&icon_color=387CA6&text_color=c9d1d9&bg_color=0d1117" alt="Milene Resnik github stats" /> 
+      <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lene&layout=compact&hide_border=true&title_color=387CA6&text_color=387CA6&bg_color=0d1117" />
 
 </div>
 
